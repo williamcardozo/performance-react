@@ -1,0 +1,1 @@
+export { ExemploMemoScreen } from './exemplo-memo/exemplo-memo.screen'
