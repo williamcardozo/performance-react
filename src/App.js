@@ -16,11 +16,9 @@ function App() {
   }
 
   return (
-   <>
     <Profiler id="App" onRender={onRenderCallback}>
       <ExemploMemoScreen />
     </Profiler>
-   </>
   );
 }
 
